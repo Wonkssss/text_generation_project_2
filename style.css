@@ -1,0 +1,32 @@
+/* The title "Text Generation Interface" in the middle of the page */
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    color: #424141;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#inputText {
+    width: 800px; /* Adjust the width as needed */
+    padding: 6px; /* Add padding for better appearance */
+    margin: 10px;
+}
+
+/* the text generated in the middle of the page as well */
+#outputText {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #303030;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+/* change background color */
+body {
+    background-color: #d6c0c0;
+}
